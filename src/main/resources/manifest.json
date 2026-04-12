@@ -1,0 +1,20 @@
+{
+    "Group": "DebugThis",
+    "Name": "DebugThis",
+    "Version": "0.0.1",
+    "Description": "View additional details about objects and entities in-game",
+    "Authors": [
+        {
+            "Name": "Your Name",
+            "Email": "your.email@example.com",
+            "Url": "https://your-website.com"
+        }
+    ],
+    "Website": "https://your-plugin-website.com",
+    "DisabledByDefault": false,
+    "IncludesAssetPack": false,
+    "Dependencies": {},
+    "OptionalDependencies": {},
+    "ServerVersion": "*",
+    "Main": "me.numilani.DebugThis"
+}
