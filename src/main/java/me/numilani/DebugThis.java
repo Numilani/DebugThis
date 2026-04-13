@@ -21,6 +21,5 @@ public class DebugThis extends JavaPlugin {
   protected void setup() {
     this.getCommandRegistry().registerCommand(new ListChunkComponentsCommand("list-chunk-components", "An example command"));
     this.getCommandRegistry().registerCommand(new ListEntityComponentsCommand("list-entity-components", "An example command"));
-    // this.getEventRegistry().registerGlobal(PlayerReadyEvent.class, ExampleEvent::onPlayerReady);
   }
 }
